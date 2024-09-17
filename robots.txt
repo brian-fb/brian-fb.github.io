@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://brian-fb.github.io/sitemap.xml
